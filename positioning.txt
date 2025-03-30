@@ -1,0 +1,8 @@
+CSS Positioning
+-->Absolute Positioning
+1. An element is positioned at the specified coordinates relative to your screen top left corner.
+2. Two values top and left can be used along with the position property to move an HTML element.
+-->Relative Positioning
+Relative Positioning cahnges the position of the HTML elementrelative to where it normally appears.
+-->Fixed Positioning
+Allows you to fix the position of an element on the page, regardless of scrolling.
