@@ -1,0 +1,41 @@
+body{
+    background-color: #94bfcf;
+    font-family: Arial, sans-serif;
+}
+h2 {
+    color: #050505;
+    text-align: center;
+    margin-top: 20px;
+}
+#count-el {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+}
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
+button:active {
+    background-color: #3e8e41; /* Even darker green on click */
+}
+#count-el {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+}
